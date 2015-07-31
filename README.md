@@ -1,7 +1,10 @@
 				   Calina Cristian 323CA
 			Tema 4 Protocoale de comunicatie
 			
-			
+	This homework was made in C++ and it implements something similar to the wget command. 
+	It connects to a HTTP server and downloads the page asked by the user with the posibility 
+	of recursive download (only HTML: -r , or even with all pdf , img , and other files : -e), 
+	it also has a logfile for errors with -o <logfileName> command. 		
 			
 In rezolvarea temei am procedat astfel:
 	
